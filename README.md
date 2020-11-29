@@ -1,4 +1,4 @@
-# ZEnum
+# EnumWin
 Just another windows enumeration script.
 Tested on Windows XP SP3, Windows 7, Windows 8.1, Windows 10.
 Script is useful for older systems. For Win 7 and above, use PowerShell scripts.
