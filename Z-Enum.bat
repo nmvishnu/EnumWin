@@ -1,4 +1,4 @@
-:: EnumWin - Windows Enumeration script. Created by Vishnu N M. Date: 03-11-2020.
+:: Z-Enum - Windows Enumeration script. Created by Vishnu N M. Date: 03-11-2020.
 :: Tested on Windows XP SP3, Windows 7, Windows 8.1, Windows 10.
 :: Script is useful for older systems. For Win 7 and above, use PowerShell scripts.
 @echo off
